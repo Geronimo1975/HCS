@@ -1,0 +1,6 @@
+# requirements/base.txt
+asgiref==3.8.1
+Django==5.1.6
+psycopg2-binary==2.9.10
+python-environ==0.4.54
+sqlparse==0.5.3
